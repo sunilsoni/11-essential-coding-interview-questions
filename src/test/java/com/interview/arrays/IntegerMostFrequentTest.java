@@ -1,5 +1,6 @@
-package com.interview;
+package com.interview.arrays;
 
+import com.interview.arrays.IntegerMostFrequent;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.Before;
 import org.junit.Test;
